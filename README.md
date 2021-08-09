@@ -1,21 +1,7 @@
 ### Hi there 
 
-👋👋 I’m Himanshu Vind 
-👀 I’m interested in Andriod Development and Game  Developmen.UI/UX
-🌱 I’m currently learning UI/UX 
-💞️ I’m looking to collaborate on Andriod Development Project
-📫 How to reach me at gmail  himanshuvind123@gmail.com 
-<!--
-**HimanshuVind/HimanshuVind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Andriod Development 
+- 🌱 I’m currently learning Game 
+- 👯 I’m looking to collaborate on Andriod Develpoment 
+- 🤔 I’m looking for help with LINUX 
+- 💬 How to reach me at gmail himanshuvind123@gmail.com 
